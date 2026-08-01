@@ -1,0 +1,26 @@
+{
+  "repositories": [
+    {
+      "repo_id": "comfyanonymous/flux_text_encoders",
+      "save_path": "ComfyUI/models/text_encoders",
+      "files": [
+        "clip_l.safetensors",
+        "t5xxl_fp8_e4m3fn.safetensors"
+      ]
+    },
+    {
+      "repo_id": "black-forest-labs/FLUX.1-dev",
+      "save_path": "ComfyUI/models/diffusion_models",
+      "files": [
+        "flux1-dev.safetensors"
+      ]
+    },
+    {
+      "repo_id": "black-forest-labs/FLUX.1-schnell",
+      "save_path": "ComfyUI/models/vae",
+      "files": [
+        "ae.safetensors"
+      ]
+    }
+  ]
+}

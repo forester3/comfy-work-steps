@@ -1,0 +1,11 @@
+{
+  "repositories": [
+    {
+      "repo_id": "sazyou-roukaku/BracingEvoMix",
+      "save_path": "ComfyUI/models/checkpoints/SD1.5",
+      "files": [
+        "BracingEvoMix_v2.safetensors"
+      ]
+    }
+  ]
+}

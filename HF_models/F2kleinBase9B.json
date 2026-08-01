@@ -1,0 +1,25 @@
+{
+  "repositories": [
+    {
+      "repo_id": "Comfy-Org/vae-text-encorder-for-flux-klein-9b",
+      "save_path": "ComfyUI/models/text_encoders",
+      "files": [
+        "split_files/text_encoders/qwen_3_8b_fp8mixed.safetensors"
+      ]
+    },
+    {
+      "repo_id": "black-forest-labs/FLUX.2-klein-base-9b-fp8",
+      "save_path": "ComfyUI/models/diffusion_models",
+      "files": [
+        "flux-2-klein-base-9b-fp8.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/flux2-dev",
+      "save_path": "ComfyUI/models/vae",
+      "files": [
+        "split_files/vae/flux2-vae.safetensors"
+      ]
+    }
+  ]
+}

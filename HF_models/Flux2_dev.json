@@ -1,0 +1,39 @@
+{
+  "repositories": [
+    {
+      "repo_id": "Comfy-Org/flux2-dev",
+      "save_path": "ComfyUI/models/text_encoders",
+      "files": [
+        "split_files/text_encoders/mistral_3_small_flux2_bf16.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/flux2-dev",
+      "save_path": "ComfyUI/models/diffusion_models",
+      "files": [
+        "split_files/diffusion_models/flux2_dev_fp8mixed.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/flux2-dev",
+      "save_path": "ComfyUI/models/vae",
+      "files": [
+        "split_files/vae/flux2-vae.safetensors"
+      ]
+    },
+    {
+      "repo_id": "black-forest-labs/FLUX.2-small-decoder",
+      "save_path": "ComfyUI/models/vae",
+      "files": [
+         "full_encoder_small_decoder.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/flux2-dev",
+      "save_path": "ComfyUI/models/loras",
+      "files": [
+        "split_files/loras/Flux2TurboComfyv2.safetensors"
+      ]
+    }
+  ]
+}

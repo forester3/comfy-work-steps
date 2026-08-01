@@ -1,0 +1,25 @@
+{
+  "repositories": [
+    {
+      "repo_id": "Comfy-Org/Qwen3-VL",
+      "save_path": "ComfyUI/models/text_encoders",
+      "files": [
+        "text_encoders/qwen3vl_4b_fp8_scaled.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/Krea-2",
+      "save_path": "ComfyUI/models/diffusion_models",
+      "files": [
+        "diffusion_models/krea2_raw_fp8_scaled.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/Qwen-Image_ComfyUI",
+      "save_path": "ComfyUI/models/vae",
+      "files": [
+        "split_files/vae/qwen_image_vae.safetensors"
+      ]
+    }
+  ]
+}

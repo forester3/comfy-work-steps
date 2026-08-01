@@ -1,0 +1,25 @@
+{
+  "repositories": [
+    {
+      "repo_id": "Comfy-Org/z_image_turbo",
+      "save_path": "ComfyUI/models/text_encoders",
+      "files": [
+        "split_files/text_encoders/qwen_3_4b.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/z_image",
+      "save_path": "ComfyUI/models/diffusion_models",
+      "files": [
+        "split_files/diffusion_models/z_image_bf16.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/z_image_turbo",
+      "save_path": "ComfyUI/models/vae",
+      "files": [
+        "split_files/vae/ae.safetensors"
+      ]
+    }
+  ]
+}
