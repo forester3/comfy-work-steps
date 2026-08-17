@@ -1,20 +1,10 @@
 {
-  "CemreMix": 137199,
-  "BRAV7": 177164,
-  "yayoi-mix": 178711,
-  "RealisticVisionV6.0": 501240,
-  "kisaragi-mix": 97186,
-  "fudukiMix": 266180,
-  "nagatsukiMix": 238354,
-  "hadukiMix": 258679,
-  "tsubakiMix": 649263,
-  "iNiverseMix": 1366495,
-  "xxmix9realrealistic": 163192,
-  "ArienmixxlAsians": 448627,
-  "muchenSDXL": 501157,
-  "DreamShaperXL-L": 354657,
-  "RealVisXL": 789646,
-  "Realism4Krea2yogi": { "id": 3142193, "dir": "unet" },
-  "MUSEv2.5Krea2yogi": { "id": 3147272, "dir": "unet" },
-  "Russia_WATW": 2644732
+  "CemreMix": { "version_id": 137199, "file_id": 100350 }, 
+  "DreamShaperXL-L": { "version_id":354657, "file_id": 282807 },
+  "RealVisXLv5" : { "version_id": 789646, "file_id": 703211},
+  "Realism_yogiKr2": { "version_id": 3186312, "file_id": 3067129, "dir": "diffusion_models" },
+  "MUSEv3E_yogiKr2": { "version_id": 3200544, "file_id": 3081848, "dir": "diffusion_models" },
+  "MoodyKr2Mixv7" : { "version_id": 3209007 , "file_id": 3090690, "dir": "diffusion_models" },
+  "Krea2 DMergeV3": { "version_id": 3208482, "file_id": 3090280, "dir": "diffusion_models" },
+  "GonzaLomoKr2v3": { "version_id": 3204838, "file_id": 3089356, "dir": "diffusion_models" }
 }
