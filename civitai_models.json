@@ -2,6 +2,7 @@
   "CemreMix":   { "version_id": 137199, "file_id": 100350 }, 
   "DreamShaperXL-L":  { "version_id":354657, "file_id": 282807 },
   "RealVisXLv5" :   { "version_id": 789646, "file_id": 703211},
+  "iNiverseMixv5.1": { "version_id": 1366495, "file_id": 1269981},
   "Realismv2.5yogiKr2": { "version_id": 3231611, "file_id": 3114144, "dir": "diffusion_models" },
   "MUSEv3E_yogiKr2":  { "version_id": 3200544, "file_id": 3081848, "dir": "diffusion_models" },
   "MUSEv35E":         { "version_id": 3258954, "file_id": 3142504, "dir": "diffusion_models" },
@@ -12,5 +13,6 @@
   "GonzaLomoKr2v4": { "version_id": 3245099, "file_id": 3128557, "dir": "diffusion_models" },
    "Krea2 DMergeV3": { "version_id": 3208482, "file_id": 3090280, "dir": "diffusion_models" },
   "Krealism v1":    { "version_id": 3140084, "file_id": 3020262, "dir": "diffusion_models" },
-  "IntoRealismKr2v3": { "version_id": 3219496, "file_id": 3116862, "dir": "diffusion_models" }
+  "IntoRealismKr2v3": { "version_id": 3219496, "file_id": 3116862, "dir": "diffusion_models" },
+  "ULTRAv15": { "version_id": 3215898, "file_id": 3139476, "dir": "diffusion_models" }
 } 
