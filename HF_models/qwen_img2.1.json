@@ -18,6 +18,13 @@
     },
     {
       "repo_id": "Comfy-Org/Qwen-Image-2.1",
+      "save_path": "ComfyUI/models/loras",
+      "files": [
+        "loras/qwen_image_2.1_turbo_lora_avg_rank_178_bf16.safetensors"
+      ]
+    },
+    {
+      "repo_id": "Comfy-Org/Qwen-Image-2.1",
       "save_path": "ComfyUI/models/vae",
       "files": [
         "vae/qwen_image_2.1_vae_bf16.safetensors"
